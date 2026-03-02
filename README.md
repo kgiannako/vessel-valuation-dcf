@@ -56,7 +56,7 @@ ship-valuation-tool/
 ├── README.md
 ├── data/
 │   └── baltic_panamax_historical_data.csv   # BPI daily data, 2012–2025
-├── calibration/
+├── notebooks/
 │   └── bpi_calibration.ipynb   # OU parameter estimation from BPI data
 └── src/
     ├── vessel.py               # VesselSpec dataclass
